@@ -35,7 +35,9 @@ Interface moderna e convidativa que apresenta o sistema de forma profissional, d
 
 <div align="center">
 
-<img width="1912" height="913" alt="Página Inicial - Northern Lights" src="https://github.com/user-attachments/assets/homepage" />
+<img width="1897" height="910" alt="Screenshot 2025-12-25 184204" src="https://github.com/user-attachments/assets/8ddcd1a0-994f-4380-b29d-d43bccd02e6d" />
+<img width="1897" height="907" alt="Screenshot 2025-12-25 184214" src="https://github.com/user-attachments/assets/a7f0763b-b4ae-4b88-ba18-72ec5600063f" />
+<img width="1895" height="834" alt="Screenshot 2025-12-25 184227" src="https://github.com/user-attachments/assets/bec0d032-474f-40f2-a93f-dd1c3e45d9b4" />
 
 *Página inicial com design moderno e informações sobre o sistema*
 
@@ -48,7 +50,8 @@ Interface de login intuitiva e segura, com validação em tempo real e feedback 
 
 <div align="center">
 
-<img width="1912" height="913" alt="Tela de Login" src="https://github.com/user-attachments/assets/login" />
+<img width="1914" height="907" alt="Screenshot 2025-12-25 175749" src="https://github.com/user-attachments/assets/dbf4a8d6-04a3-44ef-ab92-03e402494612" />
+
 
 *Tela de login com validação e design moderno*
 
@@ -59,7 +62,8 @@ Formulário completo de registro com validação de dados e seleção de nível 
 
 <div align="center">
 
-<img width="1912" height="913" alt="Tela de Registro" src="https://github.com/user-attachments/assets/register" />
+<img width="1913" height="904" alt="Screenshot 2025-12-25 175806" src="https://github.com/user-attachments/assets/1b228e35-da88-450e-9eef-578b5897119b" />
+
 
 *Sistema de registro com validação de formulário*
 
@@ -76,7 +80,8 @@ Visão geral completa do sistema com estatísticas em tempo real, acesso rápido
 
 <div align="center">
 
-<img width="1896" height="905" alt="Dashboard do Professor" src="https://github.com/user-attachments/assets/6b5cec84-3967-49d2-839b-b9a253fa79c5" />
+<img width="1905" height="909" alt="image" src="https://github.com/user-attachments/assets/24538252-6735-48d2-880d-034db0b7d4e0" />
+
 
 *Dashboard completo com estatísticas e acesso rápido às funcionalidades*
 
@@ -98,7 +103,9 @@ Gráficos interativos mostrando a evolução das notas ao longo do tempo, com m�
 
 <div align="center">
 
-<img width="1912" height="903" alt="Análise de Desempenho - Gráficos" src="https://github.com/user-attachments/assets/student-performance" />
+<img width="1912" height="908" alt="Screenshot 2025-12-25 182532" src="https://github.com/user-attachments/assets/0b759cab-aad3-4757-95b4-4bb892886c74" />
+<img width="1634" height="437" alt="Screenshot 2025-12-25 182553" src="https://github.com/user-attachments/assets/4514940f-d80e-43e6-998d-e5618b0c3c26" />
+
 
 *Gráficos de evolução de notas com Chart.js - Análise completa do progresso acadêmico*
 
@@ -110,27 +117,25 @@ Criação intuitiva de questões com múltiplos tipos, upload de imagens e siste
 <div align="center">
 
 <img width="1903" height="909" alt="Criação de Questões" src="https://github.com/user-attachments/assets/6be57e17-eda1-4777-9049-f4a9d79a3244" />
+<img width="1902" height="909" alt="Screenshot 2025-12-25 180656" src="https://github.com/user-attachments/assets/72be3078-e1d2-4f9d-b4b3-35002965d5c6" />
+<img width="1902" height="910" alt="Screenshot 2025-12-25 180627" src="https://github.com/user-attachments/assets/ae6c84f6-e4a8-4fdc-8a8c-9dbcd9744e96" />
 
 *Interface de criação de questões com múltiplas opções*
 
 </div>
 
-<div align="center">
 
-<img width="1902" height="910" alt="Gerenciamento de Questões" src="https://github.com/user-attachments/assets/b9acd38c-5e3c-4475-8d15-7174a39182b1" />
-
-*Lista de questões com filtros e busca avançada*
-
-</div>
 
 #### 🎓 Galeria de Aulas Gravadas
 Interface moderna para gerenciamento de aulas gravadas, com suporte para YouTube e links externos, player integrado e organização por categorias.
 
 <div align="center">
 
-<img width="1912" height="913" alt="Galeria de Aulas Gravadas" src="https://github.com/user-attachments/assets/9f10c4f4-721b-4c86-8738-8a19ca8f30f8" />
+<img width="1912" height="913" alt="Screenshot 2025-12-25 180708" src="https://github.com/user-attachments/assets/f381a527-3567-4fa7-9c50-383b329b9846" />
+
 
 *Galeria de aulas gravadas com interface moderna e player integrado*
+<img width="1910" height="903" alt="Screenshot 2025-12-25 181612" src="https://github.com/user-attachments/assets/de1ccb88-a623-4836-a46e-f3c0ef541fc8" />
 
 </div>
 
@@ -139,7 +144,9 @@ Correção inteligente de respostas dos alunos com feedback detalhado e atribui�
 
 <div align="center">
 
-<img width="1912" height="913" alt="Sistema de Correções" src="https://github.com/user-attachments/assets/corrections" />
+
+<img width="1909" height="907" alt="Screenshot 2025-12-25 183254" src="https://github.com/user-attachments/assets/b858c9e7-e2da-4642-a2bf-635d2c131a88" />
+
 
 *Interface de correção com feedback e notas*
 
@@ -150,7 +157,8 @@ Criação e gerenciamento de provas, associando questões existentes e visualiza
 
 <div align="center">
 
-<img width="1912" height="913" alt="Gerenciamento de Provas" src="https://github.com/user-attachments/assets/exams" />
+<img width="1898" height="906" alt="image" src="https://github.com/user-attachments/assets/9cb79efc-e892-44fb-894f-047420d0f473" />
+
 
 *Criação e gerenciamento de provas com questões associadas*
 
@@ -165,7 +173,8 @@ Interface personalizada com estatísticas do aluno, questões disponíveis e pro
 
 <div align="center">
 
-<img width="1912" height="913" alt="Dashboard do Estudante" src="https://github.com/user-attachments/assets/student-dashboard" />
+<img width="1912" height="908" alt="Screenshot 2025-12-25 182532" src="https://github.com/user-attachments/assets/6f1b9dfb-8122-4b3a-8dda-45d41b46ddc8" />
+
 
 *Dashboard do estudante com estatísticas e acesso rápido*
 
@@ -176,7 +185,8 @@ Visualização de aulas gravadas com player integrado, filtros e busca.
 
 <div align="center">
 
-<img width="1912" height="913" alt="Galeria de Aulas - Estudante" src="https://github.com/user-attachments/assets/student-gallery" />
+<img width="1910" height="903" alt="Screenshot 2025-12-25 181612" src="https://github.com/user-attachments/assets/d919e5bd-3a6b-4fa6-85d3-b2094dcccb11" />
+
 
 *Galeria de aulas para estudantes com player de vídeo*
 
@@ -187,7 +197,8 @@ Visualização de todas as notas com gráficos de progresso e feedback detalhado
 
 <div align="center">
 
-<img width="1912" height="913" alt="Notas do Estudante" src="https://github.com/user-attachments/assets/student-grades" />
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/cb155bb2-0320-4aa2-94d2-445799abe884" />
+
 
 *Visualização de notas com gráficos de progresso para estudantes*
 
@@ -198,7 +209,8 @@ Interface para visualizar e responder questões, com upload de imagens e traduç
 
 <div align="center">
 
-<img width="1912" height="913" alt="Questões do Estudante" src="https://github.com/user-attachments/assets/student-questions" />
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/2383765f-c24f-4a48-9444-129157962c34" />
+
 
 *Interface de questões com tradução automática baseada no nível de inglês*
 
@@ -209,7 +221,8 @@ Edição completa de perfil, upload de foto e configurações pessoais.
 
 <div align="center">
 
-<img width="1912" height="913" alt="Perfil do Estudante" src="https://github.com/user-attachments/assets/student-profile" />
+<img width="475" height="675" alt="image" src="https://github.com/user-attachments/assets/a62b262b-30df-40cf-95ea-1f9fb00bfe6c" />
+
 
 *Perfil do estudante com edição de informações e foto*
 
@@ -535,7 +548,7 @@ Desenvolvedor Full Stack com experiência em:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbertmatheus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-matheus-o-s-081061307/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevHerbertt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herbertt.mat/)
 
